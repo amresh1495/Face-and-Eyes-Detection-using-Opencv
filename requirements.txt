@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 numpy>=1.16.2
 opencv-python>=4.0.0.21
 gunicorn
 flask
+=======
+numpy==1.16.2
+opencv-python==4.0.0.21
+>>>>>>> 96cf86410a4a5a3bf0524ac8f47a3a72e859dbac
